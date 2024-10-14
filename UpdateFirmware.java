@@ -19,6 +19,8 @@
  public byte dataCmd;
  public byte exitCmd;
 
+ //CHange introduced on 14/10/2024
+
  }//end of class InstallFirmwareSettings
  // 
 --------------------------------------------------------------------------------
